@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hibashaalan
-- 👀 I’m interested in AI/ML, Software Development, and accessability.
-- 🌱 I’m currently learning Parellel Optimizations for Robotics, AI/ML, C++
+- 👀 I’m interested in AI/ML, Software Development, and user accessibility.
+- 🌱 I’m currently learning Parallel Optimizations for Robotics, AI/ML, and C++
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me shaalanh21@gmail.com
 - 😄 Pronouns: she/her
